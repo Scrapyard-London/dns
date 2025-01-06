@@ -1,1 +1,5 @@
 ---
+"":
+  - ttl: 600
+    type: CNAME
+    value: website-6a9.pages.dev.
