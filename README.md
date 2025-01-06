@@ -4,7 +4,7 @@ We got the domain [scrapyard.london](https://scrapyard.london) for this event, a
 [![test](https://github.com/scrapyard-london/dns/workflows/test/badge.svg)](https://github.com/scrapyard-london/dns/actions?query=workflow%3Atest)
 [![deploy](https://github.com/scrapyard-london/dns/workflows/deploy/badge.svg)](https://github.com/scrapyard-london/dns/actions?query=workflow%3Adeploy)
 
-This repository is used for managing my DNS configuration through OctoDNS. Please see its documentation for more information.
+This repository is used for managing my DNS configuration through OctoDNS. Please see its documentation for more information. If it bonks, pls email leow@hackclub.com!
 
 ## Adding a subdomain
 
