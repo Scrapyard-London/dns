@@ -1,5 +1,6 @@
 # Scrapyard London DNS
 We got the domain [scrapyard.london](https://scrapyard.london) for this event, and this is the repo to manage it!
+For scrapyard.hackclub.com/[london]/[page] pages, please get in contact with Hack Club directly
 
 [![test](https://github.com/scrapyard-london/dns/workflows/test/badge.svg)](https://github.com/scrapyard-london/dns/actions?query=workflow%3Atest)
 [![deploy](https://github.com/scrapyard-london/dns/workflows/deploy/badge.svg)](https://github.com/scrapyard-london/dns/actions?query=workflow%3Adeploy)
